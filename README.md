@@ -14,7 +14,7 @@ built a 7-page interactive dashboard to make sense of it.
 Everything is in this Google Drive folder — the Power BI file, the dataset,
 and my full video walkthrough:
 
-**[Open the project on Google Drive](https://drive.google.com/file/d/1oEQYHVhWuKxpbZrxJWCaZ0jO10bl8AnF/view?usp=sharing)**
+**[Open the project on Google Drive](https://drive.google.com/drive/folders/1GCNHsq9OhvaY8P0rTNG3mYnSb6-IwudQ?usp=sharing)**
 
 Dashboard screenshots are in the `/screenshots` folder of this repository.
 
